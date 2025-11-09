@@ -1,4 +1,4 @@
-const API_BASE_URL = "http:// 3.147.36.20";
+const API_BASE_URL = "http://api.clouddevops.co.in";
 //const API_BASE_URL = "http://backend.515800584282.realhandsonlabs.net";
 // export default API_BASE_URL;
 // const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || "http://backend";
